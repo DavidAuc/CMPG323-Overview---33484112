@@ -7,8 +7,8 @@ Project 3 - CMPG323-Project-3---33484112
 Project 4 - CMPG323-Project-4---33484112
 Project 5 - CMPG323-Project-5---33484112
 
-![image](https://user-images.githubusercontent.com/90207115/184922086-c755bf1d-4b1f-4aea-9d80-410c215e0d31.png)
-
+## Diagram explaining project and repository context
+![image](https://user-images.githubusercontent.com/90207115/184922974-fa986d27-07e9-4c13-a434-f9262ca5601e.png)
 
 ## Branching strategy:
 All projects will make use of the GitHub flow branching strategy
