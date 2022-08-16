@@ -7,13 +7,11 @@ Project 3 - CMPG323-Project-3---33484112
 Project 4 - CMPG323-Project-4---33484112
 Project 5 - CMPG323-Project-5---33484112
 
-## Diagram of project and repos:
+![image](https://user-images.githubusercontent.com/90207115/184922086-c755bf1d-4b1f-4aea-9d80-410c215e0d31.png)
+
 
 ## Branching strategy:
-Project 2 -
-Project 3 -
-Project 4 -
-Project 5 -
+All projects will make use of the GitHub flow branching strategy
 
 ## .gitignore file uses
 Each project may have the following types of files added to the .gitignore:
